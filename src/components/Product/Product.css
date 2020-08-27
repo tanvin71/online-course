@@ -1,0 +1,10 @@
+.product{
+    margin-top: 50px;
+}
+.img {
+    height: 200px;
+}
+
+.product:hover {
+    box-shadow: 1px 1px 10px gray;
+}
